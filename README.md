@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/ejss11/ejss11/blob/main/Banner%20GitHub%20Eduardo.png" width="800"/>
 </div>
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
+
 ![](https://komarev.com/ghpvc/?username=ejss11&label=PROFILE+VIEWS)
  
 <h1>
@@ -15,7 +17,7 @@ Sobre Mi:
 
 - 🔭 Actualmente estoy trabajando en E-Nova como Desarrollador RPA Senior Uipath 
 - 🌱 Actualemte estoy aprendiendo Javascript, NodeJs, Express, Html, Css, Metologia BEM, Google Cloud ..
-- 📫 Como Contactarme: Correo-> eduardosilva.11@gmail ó [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
+- 📫 Como Contactarme: Correo-> eduardosilva.11@gmail.com ó [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
 - ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo
 
 ---
