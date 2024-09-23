@@ -15,8 +15,8 @@ Sobre Mi:
 
 - 🔭 Actualmente estoy trabajando en E-Nova como Desarrollador RPA Senior Uipath 
 - 🌱 Actualemte estoy aprendiendo Javascript, NodeJs, Express, Html, Css, Metologia BEM, Google Cloud ..
-- 📫 Como Contactarme: Correo-> eduardosilva.11@gmail ó [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
--:heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+- 📫 Como Contactarme: Correo-> eduardosilva.11@gmail ó [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
+- ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo
 
 ---
 
