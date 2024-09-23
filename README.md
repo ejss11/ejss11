@@ -22,9 +22,8 @@ Sobre Mi:
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Lenguajes, herramientas y estadisticas :
 
 
 
-🔥 Mis estadísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejss11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
