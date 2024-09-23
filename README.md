@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/ejss11/ejss11/blob/main/Banner%20GitHub%20Eduardo.png" width="800"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-javier-silva-sierra/)
 ![](https://komarev.com/ghpvc/?username=ejss11&label=PROFILE+VIEWS)
  
 <h1>
